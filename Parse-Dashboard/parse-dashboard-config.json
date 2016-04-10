@@ -1,16 +1,1 @@
-{
-  "apps": [
-    {
-      "serverURL": "http://madangehlot.herokuapp.com/parse",
-      "appId": "myAppId",
-      "masterKey": "myHerokuMasterKey",
-      "appName": "MyApp"
-    }
-  ],
-    "users": [
-    {
-      "user":"madan",
-      "pass":"gehlot"
-    }
-  ]
-}
+
